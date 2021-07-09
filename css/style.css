@@ -1,5 +1,43 @@
+.header{
+    background-color: teal;
+}
+.hero{
+    background-color: turquoise;
+}
+.body{
+    background-color: violet;
+}
+.bar{
+    background-color: tomato;
+}
+.footer{
+    background-color: aqua;
+}
+.border-section{
+    background-color: chartreuse;
+    padding: 20px;
+}
 .box{
+    margin: 10px 0;
     min-height: 100px;
-    background: blueviolet;
+    background: red;
     margin-bottom: 10px;
+    color: whitesmoke;
+    font-size: 20px;
+}
+.box2{
+    margin: 10px 0;
+    min-height: 100px;
+    background: blue;
+    color: whitesmoke;
+    font-size: 20px;
+}
+.box3{
+    height: 200px;
+    width: 200px;
+    background-color: cyan;
+}
+.mh{
+    min-height: 100px;
+    width: 100px;
 }
